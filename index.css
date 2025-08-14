@@ -4,6 +4,9 @@ body {
 article {
   padding: 30px 60px 30px 60px;
 }
+h2 {
+  font-size: 20pt;
+}
 #couch {
   background-color: #fafafa;
   margin-bottom: 25px;
