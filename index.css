@@ -1,0 +1,34 @@
+body {
+  background-color: #c8c8c8;
+}
+article {
+  padding: 30px 60px 30px 60px;
+}
+#couch {
+  background-color: #fafafa;
+  margin-bottom: 25px;
+}
+#table {
+  background-color: #fafafa;
+  margin-bottom: 25px;
+}
+#chair {
+  background-color: #fafafa;
+  margin-bottom: 25px;
+}
+#price {
+  color: #006400;
+  font-size: xx-large;
+}
+s {
+  color: rgb(175, 0, 0);
+  font-size: smaller;
+}
+button {
+  background-color: gold;
+  border: gold;
+  padding: 10px 25% 10px 25%;
+}
+button:hover {
+  cursor: pointer;
+}
